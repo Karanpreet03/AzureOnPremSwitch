@@ -1,0 +1,9 @@
+{
+	"name": "dev-df-karan",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "228908ff-6bc4-44f3-a18a-7b1d2af7f391",
+		"tenantId": "efd086d6-07c6-4bfd-b9b4-74e7f2f3686f"
+	}
+}
