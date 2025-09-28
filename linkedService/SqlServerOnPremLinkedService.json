@@ -6,10 +6,10 @@
 		"typeProperties": {
 			"server": "Windows_Laptop\\SQLEXPRESS",
 			"database": "AdventureWorksLT2022",
-			"encrypt": "optional",
+			"encrypt": "mandatory",
 			"trustServerCertificate": false,
-			"authenticationType": "Windows",
-			"userName": "root",
+			"authenticationType": "SQL",
+			"userName": "adf_user",
 			"password": {
 				"type": "AzureKeyVaultSecret",
 				"store": {
